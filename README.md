@@ -41,3 +41,5 @@ The system simulates a help desk environment where tickets move through a lifecy
 
 ## Purpose
 The goal of this project was to apply Java OOP principles to build a functional system that reflects real-world IT support workflows and improves understanding of software design and structure.
+## Test Run Image
+<img width="623" height="434" alt="Screenshot 2026-05-07 171653" src="https://github.com/user-attachments/assets/69fa093b-89ce-443f-85b1-fb1cf5e612cf" />
